@@ -1,0 +1,3 @@
+[submodule "thank-you-js"]
+	path = thank-you-js
+	url = https://github.com/thank-you-js/thank-you-js
